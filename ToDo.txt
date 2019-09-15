@@ -1,0 +1,6 @@
+echo "# My_python_projects" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/shubhcodegate/My_python_projects.git
+git push -u origin master
